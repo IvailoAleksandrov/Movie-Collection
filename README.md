@@ -1,20 +1,10 @@
 # Movie Collection
  Most popular Movies and TV shows info application built with vanilla JavaScript that uses **version 3** of the [TMDB API](https://developers.themoviedb.org/3)
 
-<img src="images/screen.jpg" width="500">
+This includes the most popular movies and TV shows with detail pages, a search box for movies and shows with full pagination and a slider for movies that are currently playing in theaters. The slider uses the [Swiper](https://swiperjs.com) library.
 
-This includes the most populr movies and TV shows with detail pages, a search box for movies and shows with full pagination and a slider for movies that are currently playing in theaters. The slider uses the [Swiper](https://swiperjs.com) library.
 
-## Usage
-
-Just clone or download and then register for a free API key at https://www.themoviedb.org/settings/api
-
-Once you get your key, just add it to the `api.apiKey` value in the global state at the top.
-
-**Note:** If you are using this as a production project, you should not store this in the client. You can create a proxy server and store your key there. I may add that to the repo later on.
-
-I also may convert this to use a module bundler such as Vite or Webpack.
-
-## Theme (HTML & CSS)
-
-I also included the theme here for you to download. It does not include any JavaScript at all. This is what you should use if you are following along with the course.
+![1](https://github.com/IvailoAleksandrov/Movie-Collection/assets/110155667/5fe63bc0-9394-4ee9-b999-5aba420d0919)
+![2](https://github.com/IvailoAleksandrov/Movie-Collection/assets/110155667/ec511461-e006-4bb4-882e-8912e27705b9)
+![3](https://github.com/IvailoAleksandrov/Movie-Collection/assets/110155667/b1f56808-833b-434f-9dc2-b44a6d303faf)
+![4](https://github.com/IvailoAleksandrov/Movie-Collection/assets/110155667/3336ebf8-de97-4ca3-9f7b-f7cceae83a0c)
